@@ -1,0 +1,39 @@
+
+                                <div class="grid__item">
+                                    <div class="product">
+                                        <div class="tm-nav-link">
+                                            <i class="fas fa-handshake fa-3x tm-nav-icon"></i>
+                                            <span class="tm-nav-text">Our Work</span>
+                                            <div class="product__bg"></div>             
+                                        </div>                                                                 
+                                        <div class="product__description">
+                                            <div class="p-sm-4 p-2">
+                                                <div class="row mb-3">
+                                                    <div class="col-12">
+                                                        <h2 class="tm-page-title">Our Work</h2>        
+                                                    </div>
+                                                </div>
+                                                <div class="row mb-3">
+                                                    <div class="col-12">
+                                                        <p>Helping men find career pathways. Building self-esteem and independence. Also creating a brotherhood. Breaking the cycles of incarceration, addiction, and poverty. Joblessness is the number one indicator for reoffending. "In order to maintain long term sobriety, 
+                                                        it is vital for men to learn how to be VULNERABLE through communicating and asking for help." Restoring the lives of men in our community.</p>
+                                                    </div>
+                                                </div>
+                                                <div class="row">
+                                                    <div class="col-12">
+                                                        <div class="p-sm-4 p-2 tm-img-container">
+                                                            <div class="tm-img-slider" id="tmImgSlider">
+                                                              <a href="#" class="tm-slider-img-link"><img src="https://cdn.pixabay.com/photo/2015/10/06/22/44/suit-975426_960_720.jpg" alt="Image 1" class="img-fluid tm-slider-img"></a>
+                                                              <a href="#" class="tm-slider-img-link"><img src="https://cdn.pixabay.com/photo/2016/02/19/11/29/friends-1209740_960_720.jpg" alt="Image 2" class="img-fluid tm-slider-img"></a>
+                                                              <a href="#" class="tm-slider-img-link"><img src="https://cdn.pixabay.com/photo/2015/09/01/05/41/man-916498_960_720.jpg" alt="Image 3" class="img-fluid tm-slider-img"></a>
+                                                              <a href="#" class="tm-slider-img-link"><img src="https://cdn.pixabay.com/photo/2019/10/22/13/43/man-4568762_960_720.jpg" alt="Image 4" class="img-fluid tm-slider-img"></a>
+                                                              <a href="#" class="tm-slider-img-link"><img src="https://cdn.pixabay.com/photo/2017/11/02/14/25/model-2911325_960_720.jpg" alt="Image 5" class="img-fluid tm-slider-img"></a>
+                                                              <a href="#" class="tm-slider-img-link"><img src="https://cdn.pixabay.com/photo/2019/06/17/09/09/man-4279493_960_720.jpg" alt="Image 6" class="img-fluid tm-slider-img"></a>
+                                                            </div>
+                                                        </div>  
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>       
+                                    </div>
+                                </div>
